@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CyberAI - Sensibilisation Cybersécurité",
+  "description": "Une plateforme interactive de sensibilisation à la cybersécurité avec IA pédagogique, quiz solo/multi-joueurs, outils de test de sécurité et jeux éducatifs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
